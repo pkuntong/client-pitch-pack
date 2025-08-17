@@ -34,18 +34,6 @@ A conversion-optimized landing page for selling your designer pitch pack digital
 4. Select "Deploy from branch" → main branch
 5. Your site will be live at `https://yourusername.github.io/repository-name`
 
-## Deploy to Netlify
-1. Go to netlify.com
-2. Drag and drop your project folder onto Netlify
-3. Your site will be live instantly with a random URL
-4. Optional: Change site name in Site settings
-
-## Gumroad Setup for Automatic Delivery
-1. Create product, set price to $10
-2. In "Content" tab, upload your PDF and video file
-3. Set "Content Type" to "Digital Download"
-4. Enable "Deliver immediately after purchase"
-5. Buyers receive download links via email after payment
 
 ## Email Autoresponder Setup
 When someone requests a preview, use this auto-reply:
